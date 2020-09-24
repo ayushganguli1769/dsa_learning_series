@@ -12,4 +12,3 @@ while x < m and y < n:
         x += 1
     else:
         y += 1
-#kaunsa bhang fuk ke previous solution likha tha
