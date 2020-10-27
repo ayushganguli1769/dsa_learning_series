@@ -10,6 +10,8 @@ def sieve(N):
                 prime_count[j] += 1
     return prime_count
 N = 100000
+#ayush ganguli
+#again 
 prime_count =sieve(N+200)
 (count1,count2,count3,count4,count5) = (0,0,0,0,0)
 (prime1,prime2,prime3,prime4,prime5) = ([0]*(N+200),[0]*(N+200),[0]*(N+200),[0]*(N+200),[0]*(N+200))
